@@ -1,5 +1,5 @@
 # Basics
-* Current Role: Engineering Manager
+* Current Role: Director of Engineering
 * Location: Massachusetts, US
 * Connect: [LinkedIn](https://www.linkedin.com/in/danmccarthyboston/)
 
