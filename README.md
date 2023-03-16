@@ -16,7 +16,7 @@
 * **AWS**: EC2, ECS, ECR, S3, RDS/Aurora, Lambda, Cloudformation, Route 53, API Gateway, CloudFront, Cloudwatch, CodeBuild, CodePipeline.
 * **Other**: Docker, Docker Compose, Apache, Nginx, DNS, HTTP, SMTP
 
-# How Hands-on Are You? :firefighter: :writing_hand:
+# How Hands-on Are You? :firefighter: :handshake:
 A variation of this question is common in engineering leadership interviews.  It is important to define what we mean by hands-on. For some it is a synonym for writing code, but for me this is a broader set of activities as part of building great software.  These are some examples of hands-on acticities I have done over the last few years, with writing code representing a very small portion of my time.
 
 * Code Review
