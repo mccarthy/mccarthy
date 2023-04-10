@@ -17,7 +17,7 @@
 * **Other**: Docker, Docker Compose, Apache, Nginx, DNS, HTTP, SMTP
 
 # How Hands-on Are You? :firefighter: :handshake:
-A variation of this question is common in engineering leadership interviews.  It is important to define what we mean by hands-on. For some it is a synonym for writing code, but for me this is a broader set of activities as part of building great software.  These are some examples of hands-on acticities I have done over the last few years, with writing code representing a very small portion of my time.
+A variation of this question is common in engineering leadership interviews.  It is important to define what we mean by hands-on. For some it is a synonym for writing code, but for me this is a broader set of activities as part of building great software.  I love being hands-on, and relish the opportunity to contribute technically on a daily basis. These are some of the hands-on activities I enjoy:
 
 * Code Review
 * Troubleshooting
@@ -29,5 +29,3 @@ A variation of this question is common in engineering leadership interviews.  It
 * Beta Testing UI or API features
 * Write Code
 * Deploying to Production
-
-I wrote this README while assessing what is important to me in my career.  It helped, a lot.  I was inspired by my [friend Eric's](https://github.com/edj-boston) which is no longer online.
