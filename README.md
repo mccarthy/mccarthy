@@ -8,7 +8,7 @@
 * A mission makes me tick. I’m good at problem-solving and building great software, but above all I need to have something I’m striving for.
 * I love empowering great engineers to build products they are proud of.
 * Learning is a key part of my motivation at work, I'm drawn to things I've never done before.
-* I have spent most of my career at mid-stage startups.  At one point I worked for eBay, and that was a wonderful exception. The awkward teenage years are a great time to make a difference at many organizations.
+* I have spent most of my career at startups, mostly in the fast growth phase.  At one point I worked for eBay, and that was a wonderful exception. The awkward teenage years are a great time to make a difference, too.
 
 # Tech Stack :cloud: :whale:
 * **Languages**: I'm a polyglot and generally open-minded about languages.  I am strongest in JavaScript, PHP and SQL, most interested in Python.
